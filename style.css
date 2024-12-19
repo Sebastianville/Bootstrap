@@ -29,22 +29,25 @@
   }
 
 
+ .mt-200{
+  margin-top: 200px;
+ }
 
 
 
-  
+
 /* User code */
 .nameCompany{
     margin-top: 9px;
     margin-left: 60px;
 }
 
- #login-btn{
+ /* #login-btn{
     margin-top: 5px;
     margin-left: 100px;
- }
+ } */
 
-
+/* 
   #description-header{
     margin-top: 20px;
-  }
+  } */
